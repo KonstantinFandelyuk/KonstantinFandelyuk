@@ -1,7 +1,7 @@
 # Konstantin
 
 
-⤷  am a frontend developer with experience in JavaScript, Ajax, HTML, CSS (SASS and LESS), WebPack, Mobx, Formic, React Query, React Form, Redux (limited), Styled components, Apollo. I have worked with UI frameworks like Material UI, Ant Design, and Chakra UI. I am familiar with REST and GraphQL APIs,
+⤷ I am a frontend developer with experience in JavaScript, Ajax, HTML, CSS (SASS and LESS), WebPack, Mobx, Formic, React Query, React Form, Redux (limited), Styled components, Apollo. I have worked with UI frameworks like Material UI, Ant Design, and Chakra UI. I am familiar with REST and GraphQL APIs,
 
  <a aligh="left" href="mailto:fandeluk.k@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/fandelyuk" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
